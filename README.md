@@ -1,5 +1,4 @@
 # PasswordGenerator
-https://img.shields.io/badge/any_text-you_like-blue
 ## What it is used for?
 This program can be used to generate random string of characters of length varying on your input value
 ## How to compile it?
